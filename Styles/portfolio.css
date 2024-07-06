@@ -60,13 +60,19 @@ nav ul{
 .banner-content{
     max-width: 580px;
 }
+.banner-discription{
+    margin-bottom: 30px;
+}
 .banner-greetings{
     font-size: 45px;
     font-weight: 600;
+    margin-bottom: 1px;
 }
 .banner-title{
     font-weight: bold;
     font-size: 52px;
+    margin-top: 5px;
+    margin-bottom: 10px;
     
 }
 .banner-profile-pic{
@@ -92,11 +98,13 @@ nav ul{
     font-size: 35px;
     font-weight: bold;
     color: #181818;
+    margin-bottom: 0px;
 
 }
 .section-discription{
     font-size: 18px;
     color: #757575;
+    margin-top: 1px;
 }
 /* main styles */
 
@@ -108,13 +116,14 @@ main{
 /* about styles */
 .about{
     border-radius: 10px;
-    padding: 130px 150px;
+    padding: 10px 150px;
     text-align: center;
-    margin-top: 130px;
+    margin-top: 50px;
 }
 
 .item-description{
     font-weight: 600;
+    font-style: italic;
 }
 .about-items{
     display: flex;
